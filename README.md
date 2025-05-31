@@ -1,5 +1,8 @@
  🥔 Potato Disease Classification using CNN
 
+
+**NOTE** - There are 2 notebooks one for slower core processor systems and another for faste systems or GPU
+  
 This project is a deep learning solution to classify potato plant leaves into three categories:
 
 - **Healthy**
